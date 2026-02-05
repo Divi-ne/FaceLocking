@@ -1,0 +1,5 @@
+Face locking history for Divine
+========================================
+2026-02-05 13:51:40  LOCKED        Target identity recognized
+2026-02-05 13:51:41  MOVE_LEFT     Δx = -24.5px
+2026-02-05 13:51:42  UNLOCKED      Lost for 12 frames
